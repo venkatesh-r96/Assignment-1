@@ -1,5 +1,5 @@
 # Assignment-1
-Registration and Login system using Python, file handling
+Registration and Login system using Python, file handling.
 step 1: Registration 
 1.email/username should have "@" and followed by ".",
 2.There should not be any "." immediate next to "@"
